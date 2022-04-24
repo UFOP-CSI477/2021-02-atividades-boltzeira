@@ -20,11 +20,11 @@
 
   Este projeto terá as seguintes funcionalidades:
   
-    -> Rolar a pagina com preços de produtos em ordem alfabetica.
+    -> página com preços de produtos em ordem alfabética.
     
     -> Pesquisar um produto.
     
-    -> login de um usuario Admin.
+    -> login de um usuário Admin.
     
     -> Admin capaz de excluir e editar produto.
 
@@ -57,6 +57,7 @@ Terceira Tela – Escolha Edição:
 	→ corpo : lista de produtos e opção de selecionar, que vai abrir uma nova tela para edição.
 
 Quarta Tela – Edição:
+
 	→ cabeçalho: nome da loja, botão para opção sair(voltar para tela Inicial retirando os privilégios Admin).
 	
 	→ corpo: produto que será editado, botão “salvar” que após alterar o seu valor, retorna para a terceira tela.
