@@ -42,7 +42,7 @@ Segunda Tela – Login:
 	→ cabeçalho: nome da loja
 	→ corpo: caixa de texto para nome e login. popup de sucesso ou falhar ao logar, caso sucesso a terceira tela é chamada.
 
-Terceira Tela – Admin fez login:
+Terceira Tela – Escolha Edição:
 	→ cabeçalho: nome da loja, lupa para pesquisar produto, botão para opção sair(voltar para tela inicial retirando os privilégios Admin) .
 	→ corpo : lista de produtos e opção de selecionar, que vai abrir uma nova tela para edição.
 
