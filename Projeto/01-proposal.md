@@ -32,22 +32,22 @@
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
 
-  Protótipos para as páginas foram elaborados, e podem ser encontrados em https://www.figma.com/file/Wo00z17KNuTm1BUr4UKKGq/Untitled?node-id=0%3A1 .
+  Protótipos para as páginas foram elaborados, e podem ser encontrados em: https://www.figma.com/file/Wo00z17KNuTm1BUr4UKKGq/Untitled?node-id=0%3A1 .
   
   Primeira Tela - Inicial:
 	→ cabeçalho : nome da loja, caixa de texto para pesquisar produto, e botão para link do login para Admin.
  	→ corpo : lista de produtos, embaixo seta de navegação(passar páginas).
 
 Segunda Tela – Login:
-	→ cabeçalho: nome da loja
+	→ cabeçalho: nome da loja, botão para opção sair(voltar para tela Inicial)
 	→ corpo: caixa de texto para nome e login. popup de sucesso ou falhar ao logar, caso sucesso a terceira tela é chamada.
 
 Terceira Tela – Escolha Edição:
-	→ cabeçalho: nome da loja, lupa para pesquisar produto, botão para opção sair(voltar para tela inicial retirando os privilégios Admin) .
+	→ cabeçalho: nome da loja, lupa para pesquisar produto, botão para opção sair(voltar para tela Inicial retirando os privilégios Admin) .
 	→ corpo : lista de produtos e opção de selecionar, que vai abrir uma nova tela para edição.
 
 Quarta Tela – Edição:
-	→ cabeçalho: nome da loja, botão para opção sair(voltar para tela inicial retirando os privilégios Admin).
+	→ cabeçalho: nome da loja, botão para opção sair(voltar para tela Inicial retirando os privilégios Admin).
 	→ corpo: produto que será editado, botão “salvar” que após alterar o seu valor, retorna para a terceira tela.
 
 
